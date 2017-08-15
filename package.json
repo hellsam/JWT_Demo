@@ -1,0 +1,27 @@
+{
+  "name": "JWT_Demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellsam/JWT_Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellsam/JWT_Demo/issues"
+  },
+  "homepage": "https://github.com/hellsam/JWT_Demo#readme",
+  "dependencies": {
+    "jsonwebtoken": "^7.4.1",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-jwt": "^3.2.2",
+    "koa-router": "^7.2.1"
+  }
+}
